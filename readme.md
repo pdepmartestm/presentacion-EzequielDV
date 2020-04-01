@@ -23,4 +23,7 @@ Trabajo en una clínica oftalmológica, soy el encargado del área de mantenimie
 2. Peaky Blinders
 3. Ozark
 
+### Una foto mia
+
+![fotodeperfil](https://github.com/pdepmartestm/presentacion-EzequielDV/blob/master/IMG-20190129-WA0012.jpg)
 
