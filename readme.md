@@ -10,7 +10,6 @@ Trabajo en una clínica oftalmológica, soy el encargado del área de mantenimie
 * Presenciar recitales
 * Nadar, correr, el ejercicio en si (lo utilizo como terapia)
 * Audio
-* Hardware 
 
 ### Principales artistas de musica
 * Los Piojos
